@@ -1,0 +1,8 @@
+Credenciales de Prueba:
+Administrador:</strong> admin / admin123</p>
+Desarrollador:</strong> desarrollador / password</p>
+Supervisor:</strong> supervisor / password</p>
+
+Consumo api_clientes
+
+ http://localhost/MIC_DESARROLLO_WEB/SistemaBancario/api_clientes.php/1
